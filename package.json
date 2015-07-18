@@ -1,0 +1,26 @@
+{
+  "name": "eslint-config-rigorous",
+  "version": "1.0.0",
+  "description": "Rigorous configuration for ESLint.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "lint": "eslint .",
+    "ci": "npm run lint && npm test"
+  },
+  "repository": "alefteris/eslint-config-rigorous",
+  "keywords": [
+    "eslint",
+    "eslintconfig"
+  ],
+  "author": "Thanos Lefteris <alefteris@gmail.com> (http://thanoslefteris.com)",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "3.1.0",
+    "eslint": "0.24.1",
+    "mocha": "2.2.5"
+  },
+  "dependencies": {
+    "js-yaml": "3.3.0"
+  }
+}
