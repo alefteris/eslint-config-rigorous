@@ -1,6 +1,6 @@
-# eslint-config-rigorous
+# eslint-config-rigorous [![Build Status](https://travis-ci.org/alefteris/eslint-config-rigorous.svg?branch=master)](https://travis-ci.org/alefteris/eslint-config-rigorous)
 
-Rigourous set of rules for linting your JavaScript with [ESLint](http://eslint.org).
+> Rigourous set of rules for linting your JavaScript with [ESLint](http://eslint.org).
 
 Keep in mind that this config is based on my personal preferences. In the extremely rare case that we share those same preferences, you might find this package useful. If not, it will take some convincing for me to change them.
 
