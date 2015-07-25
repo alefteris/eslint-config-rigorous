@@ -61,7 +61,7 @@ rules:
   default-case: 2
   dot-notation:
     - 2
-    - allowKeywords: false
+    - allowKeywords: true
   dot-location:
     - 2
     - property
