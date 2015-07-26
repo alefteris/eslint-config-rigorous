@@ -30,11 +30,20 @@ rules:
     - double
 ```
 
+There is also a setting for [io.js](https://iojs.org) to enable the [ES6 features](https://iojs.org/en/es6.html) that it supports by default at the moment:
+
+```yaml
+---
+extends:
+  - rigorous
+  - rigorous/iojs
+ ```
+
 Check out the [ESLint configuration guide](http://eslint.org/docs/user-guide/configuring) for more.
 
 # Rules
 
-The rules for rigorous are defined in config.yaml.
+The default rules for rigorous are defined in `settings/defaults.yaml`.
 
 ## License
 

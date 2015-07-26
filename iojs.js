@@ -2,4 +2,4 @@
 
 const loadConfig = require('./lib/loadConfig');
 
-module.exports = loadConfig('defaults');
+module.exports = loadConfig('iojs');

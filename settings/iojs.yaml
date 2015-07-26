@@ -1,0 +1,10 @@
+---
+env:
+  node: true
+ecmaFeatures:
+  blockBindings: true
+  classes: true
+  generators: true
+  objectLiteralShorthandMethods: true
+  objectLiteralShorthandProperties: true
+  templateStrings: true
