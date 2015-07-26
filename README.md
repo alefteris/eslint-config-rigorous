@@ -1,4 +1,4 @@
-# eslint-config-rigorous [![Build Status](https://travis-ci.org/alefteris/eslint-config-rigorous.svg?branch=master)](https://travis-ci.org/alefteris/eslint-config-rigorous)
+# eslint-config-rigorous [![Build Status](https://travis-ci.org/alefteris/eslint-config-rigorous.svg?branch=master)](https://travis-ci.org/alefteris/eslint-config-rigorous) [![Dependency Status](https://gemnasium.com/alefteris/eslint-config-rigorous.svg)](https://gemnasium.com/alefteris/eslint-config-rigorous)
 
 > Rigourous set of rules for linting your JavaScript with [ESLint](http://eslint.org).
 
