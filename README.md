@@ -8,7 +8,9 @@ Keep in mind that this config is based on my personal preferences. In the extrem
 
 You can install the rules using npm:
 
-    npm install --save-dev eslint-config-rigorous
+```sh
+npm install eslint-config-rigorous
+```
 
 ## Usage
 
@@ -41,7 +43,7 @@ extends:
 
 Check out the [ESLint configuration guide](http://eslint.org/docs/user-guide/configuring) for more.
 
-# Rules
+## Rules
 
 The default rules for rigorous are defined in `settings/defaults.yaml`.
 

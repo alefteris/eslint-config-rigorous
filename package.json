@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "mocha",
-    "lint": "eslint . && dependency-check .",
+    "lint": "eslint . && dependency-check . && mdast README.md --frail --no-stdout",
     "ci": "npm run lint && npm test"
   },
   "repository": "alefteris/eslint-config-rigorous",
@@ -19,6 +19,8 @@
     "chai": "3.1.0",
     "dependency-check": "2.5.0",
     "eslint": "0.24.1",
+    "mdast": "0.29.0",
+    "mdast-lint": "0.4.5",
     "mocha": "2.2.5"
   },
   "dependencies": {
