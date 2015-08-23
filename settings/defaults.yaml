@@ -164,6 +164,7 @@ rules:
     - domain
     - smalloc
     - sys
+    - freelist
   no-sync: 2 # Disallow Synchronous Methods
 
   # Stylistic Issues
